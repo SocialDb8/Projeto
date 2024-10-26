@@ -5,8 +5,8 @@
       { nome: "Help", pontos: 1, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_help.png" },
       { nome: "Uniforça", pontos: 1, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_uniforca.png" },
       { nome: "Universitários", pontos: 1, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_universitarios.png" },
-      { nome: "Assistentes", pontos: 1, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_assistentes.png" },
-      { nome: "Atalaia", pontos: 3, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_atalaia.png" },
+      { nome: "Assistentes", pontos: 2, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_assistentes.png" },
+      { nome: "Atalaia", pontos: 6, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_atalaia.png" },
       { nome: "Cultura", pontos: 3, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_cultura.png" },
       { nome: "Arcanjos", pontos: 0, imagem: "https://forcajovemuniversal.com/wp-content/uploads/2021/02/patch_arcanjos.png" }
     ];
